@@ -6,10 +6,6 @@ Team Members Details :
 _______________________________________________________
 | Team Member Name | Roll no  | Email Id              |
 _______________________________________________________
-| Bhumika Mishra   | 12212002 | 12212002@nitkkr.ac.in |
-_______________________________________________________
-| Poonam Kashyap   | 12212003 | 12212003@nitkkr.ac.in |
-_______________________________________________________
 | Mohit            | 12213058 | 12213058@nitkkr.ac.in |
 _______________________________________________________
 | Mayur            | 12113072 | 12113072@nitkkr.ac.in |
@@ -267,15 +263,12 @@ Optional Recommendations
 
 5.ROLE SPLIT IN THE TEAM :
 
-Bhumika Mishra : Model training
 
-Poonam Kashyap : Evaluation metric and  Feature selection
-
-Aman : data preprocessing, feature engineering
+Aman : data preprocessing, feature engineering, Model training
 
 Mayur : Hyperparameter training
 
-Mohit : Deployment, Frontend
+Mohit : Deployment, Frontend, Evaluation metric and  Feature selection
 
 
 
