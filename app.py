@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load model
-with open("rf_return_risk_model.pkl", "rb") as f:
+with open("rf_return_risk_model (1).pkl", "rb") as f:
     model = pickle.load(f)
 
 
