@@ -1,20 +1,3 @@
-
-HCL HACKATHON
-Problem Statement : Predicting Product return  risk in retail using Classification
-
-Team Members Details :
-_______________________________________________________
-| Team Member Name | Roll no  | Email Id              |
-_______________________________________________________
-| Mohit            | 12213058 | 12213058@nitkkr.ac.in |
-_______________________________________________________
-| Mayur            | 12113072 | 12113072@nitkkr.ac.in |
-_______________________________________________________
-| Aman             | 12211149 | 12211149@nitkkr.ac.in |
-_______________________________________________________
-
-
-
 1. Machine Learning Problem Definition
 The objective of this project is to predict whether an order (or an item within an order) will be returned by a customer in a retail or e-commerce environment.
 This is framed as a supervised binary classification problem.
@@ -261,14 +244,6 @@ Optional Recommendations
 
 
 
-5.ROLE SPLIT IN THE TEAM :
-
-
-Aman : data preprocessing, feature engineering, Model training
-
-Mayur : Hyperparameter training
-
-Mohit : Deployment, Frontend, Evaluation metric and  Feature selection
 
 
 
